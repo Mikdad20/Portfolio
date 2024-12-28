@@ -496,6 +496,10 @@ nav{
     width: 65%;
 }
 
+.right .bars .react::before{
+    width: 30%;
+}
+
 
 
 /*Contact section Styling*/
