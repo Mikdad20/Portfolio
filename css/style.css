@@ -176,6 +176,7 @@ nav{
 }
 
 .menu li a{
+    display: block;
     color: var(--color-dark);
     font-size: 18px;
     font-weight: 500;
